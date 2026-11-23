@@ -1,5 +1,6 @@
 # Python Virtual Environments
 .venv/
+.venv-q4/
 venv/
 env/
 ENV/
@@ -24,6 +25,8 @@ credentials.json
 cleaned_pages/
 **/cleaned_pages/
 .cache/
+/CV09_AQPSVS_Q4/anh_trang/
+/CV09_AQPSVS_Q4/ket_qua_moi/
 tmp/
 temp/
 *.tmp

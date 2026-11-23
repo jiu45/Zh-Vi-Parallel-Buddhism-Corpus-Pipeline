@@ -183,22 +183,19 @@ def parse_json_mapping(raw_text):
         raise
 
 
-def align_single_article(rotator, gid, H, V):
+def align_ranges(rotator, label, H, V):
     print(
-        f"\n--- Dóng hàng Bài {gid}/110 ({len(H)} H clauses, {len(V)} V sentences) ---",
+        f"\n--- Dóng hàng {label} ({len(H)} đoạn Hán, {len(V)} câu Việt) ---",
         flush=True,
     )
     if len(V) == 1:
-        zh_chunk = re.sub(r"[\r\n\t]+", "", "".join(H).strip())
-        vi_chunk = re.sub(r"\s+", " ", re.sub(r"[\r\n\t]+", " ", V[0].strip())).strip()
-        print(f"-> Bài {gid} chỉ có 1 câu tiếng Việt: ghép trực tiếp 100%.", flush=True)
-        return [[zh_chunk, vi_chunk]]
+        return [(0, len(H), 0, 1)]
 
     h_list_str = "\n".join(f"[H{i+1}] {c}" for i, c in enumerate(H))
     v_list_str = "\n".join(f"[V{i+1}] {s}" for i, s in enumerate(V))
 
     prompt = f"""Bạn là chuyên gia NLP ngữ liệu song ngữ Hán - Việt cổ.
-Nhiệm vụ: Dóng hàng ngữ liệu song ngữ cho Bài {gid}.
+Nhiệm vụ: Dóng hàng ngữ liệu song ngữ cho {label}.
 Với mỗi câu tiếng Việt [V_j], hãy xác định chỉ số mệnh đề Hán văn bắt đầu [H_k].
 
 DANH SÁCH MỆNH ĐỀ HÁN (từ 1 đến {len(H)}):
@@ -237,7 +234,7 @@ Chỉ trả về DUY NHẤT một mảng JSON hợp lệ (không giải thích t
             mapping = None
 
     if not mapping:
-        raise RuntimeError(f"Không thể dóng hàng Bài {gid} qua Gemini API!")
+        raise RuntimeError(f"Không thể dóng hàng {label} qua Gemini API.")
 
     # Clean and sort items by v_start
     cleaned_items = []
@@ -259,6 +256,8 @@ Chỉ trả về DUY NHẤT một mảng JSON hợp lệ (không giải thích t
         ve = max(vs, min(len(V), ve))
         cleaned_items.append({"v": [vs, ve], "h_start": hs})
 
+    if not cleaned_items:
+        raise RuntimeError(f"{label}: Gemini không trả về chỉ số neo hợp lệ.")
     items = sorted(cleaned_items, key=lambda x: x["v"][0])
     items[0]["v"][0] = 1
     items[0]["h_start"] = 1
@@ -295,7 +294,7 @@ Chỉ trả về DUY NHẤT một mảng JSON hợp lệ (không giải thích t
         merged_items.append({"v": [curr_vs, curr_ve], "h_start": curr_hs})
         i = j
 
-    pairs = []
+    ranges = []
     for idx, item in enumerate(merged_items):
         h_s = item["h_start"]
         if idx < len(merged_items) - 1:
@@ -305,9 +304,17 @@ Chỉ trả về DUY NHẤT một mảng JSON hợp lệ (không giải thích t
 
         v_s, v_e = item["v"]
 
-        zh_chunk = "".join(H[h_s - 1 : h_e]).strip()
-        vi_chunk = " ".join(V[v_s - 1 : v_e]).strip()
+        ranges.append((h_s - 1, h_e, v_s - 1, v_e))
 
+    print(f"-> [{used_slot_label}] {label}: {len(ranges)} cặp.", flush=True)
+    return ranges
+
+
+def align_single_article(rotator, gid, H, V):
+    pairs = []
+    for h_start, h_end, v_start, v_end in align_ranges(rotator, f"Bài {gid}/110", H, V):
+        zh_chunk = "".join(H[h_start:h_end]).strip()
+        vi_chunk = " ".join(V[v_start:v_end]).strip()
         zh_chunk = re.sub(r"[\r\n\t]+", "", zh_chunk)
         vi_chunk = re.sub(r"[\r\n\t]+", " ", vi_chunk)
         vi_chunk = re.sub(r"\s+", " ", vi_chunk).strip()
@@ -315,12 +322,7 @@ Chỉ trả về DUY NHẤT một mảng JSON hợp lệ (không giải thích t
         if zh_chunk and vi_chunk:
             pairs.append([zh_chunk, vi_chunk])
         else:
-            print(f"  Cảnh báo cặp rỗng: H[{h_s}:{h_e}], V[{v_s}:{v_e}]", flush=True)
-
-    print(
-        f"-> [{used_slot_label}] Tạo thành công {len(pairs)} cặp dóng hàng hợp lệ cho Bài {gid}.",
-        flush=True,
-    )
+            print(f"  Cảnh báo cặp rỗng: H[{h_start + 1}:{h_end}], V[{v_start + 1}:{v_end}]", flush=True)
     return pairs
 
 
