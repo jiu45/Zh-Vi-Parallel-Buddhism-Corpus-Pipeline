@@ -38,18 +38,18 @@ if hasattr(sys.stdout, 'reconfigure'):
 
 # Dynamic project paths
 BASE_DIR = Path(__file__).resolve().parent.parent
-BOOK_DIR = BASE_DIR / os.environ.get("BOOK_DIR_NAME", "CV09_AQPSVS_Q3")
+BOOK_DIR = BASE_DIR / os.environ.get("BOOK_DIR_NAME", "CV09_AQPSVS_Q2")
 METADATA_DIR = BASE_DIR / "metadata"
 
-ZH_PDF = os.environ.get("ZH_PDF_PATH", str(BOOK_DIR / "01_nguon" / "han" / "Ấn Quang Pháp Sư Văn Sao - Zh - 3.pdf"))
+ZH_PDF = os.environ.get("ZH_PDF_PATH", str(BOOK_DIR / "01_nguon" / "han" / "Ấn Quang Pháp Sư Văn Sao - Zh - 2.pdf"))
 RAW_HAN_DIR = os.environ.get("RAW_HAN_DIR", str(BOOK_DIR / "02_ocr_tho" / "han"))
 CLEANED_DIR = os.environ.get("CLEANED_DIR", str(BOOK_DIR / "02_ocr_tho" / "cleaned_pages"))
 ENV_FILE = os.environ.get("ENV_FILE", str(BASE_DIR / ".env"))
 OCR_LOG_FILE = os.environ.get("OCR_LOG_FILE", str(METADATA_DIR / "ocr_han_log.json"))
 
 CASCADE_MODELS = [
-    "gemini-3.6-flash",
     "gemini-3.8-flash",
+    "gemini-3.6-flash"
 ]
 
 def load_api_key():
@@ -70,7 +70,7 @@ def get_or_render_cleaned_image(doc, pno):
     if os.path.exists(out_img) and os.path.getsize(out_img) > 1000:
         return out_img
     page = doc[pno - 1]
-    pix = page.get_pixmap(dpi=200, colorspace=pymupdf.csGRAY)
+    pix = page.get_pixmap(dpi=300, colorspace=pymupdf.csGRAY)
     img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width)
     clipped = np.clip((img.astype(np.float32) - 60) * (255.0 / (165 - 60)), 0, 255).astype(np.uint8)
     Image.fromarray(clipped).save(out_img)

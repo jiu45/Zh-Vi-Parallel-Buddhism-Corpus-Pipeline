@@ -1,1269 +1,1514 @@
 {
+  "4": {
+    "page": 4,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 66,
+    "timestamp": "2026-11-23 19:28:06"
+  },
+  "5": {
+    "page": 5,
+    "model": "gemini-3.8-flash",
+    "char_count": 403,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:28:37"
+  },
+  "2": {
+    "page": 2,
+    "model": "gemini-3.8-flash",
+    "char_count": 259,
+    "period_count": 60,
+    "timestamp": "2026-11-23 19:28:06"
+  },
+  "3": {
+    "page": 3,
+    "model": "gemini-3.8-flash",
+    "char_count": 337,
+    "period_count": 48,
+    "timestamp": "2026-11-23 19:28:06"
+  },
+  "6": {
+    "page": 6,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 71,
+    "timestamp": "2026-11-23 19:28:37"
+  },
+  "7": {
+    "page": 7,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 72,
+    "timestamp": "2026-11-23 19:28:37"
+  },
+  "8": {
+    "page": 8,
+    "model": "gemini-3.8-flash",
+    "char_count": 414,
+    "period_count": 63,
+    "timestamp": "2026-11-23 19:29:05"
+  },
+  "9": {
+    "page": 9,
+    "model": "gemini-3.8-flash",
+    "char_count": 424,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:29:05"
+  },
+  "10": {
+    "page": 10,
+    "model": "gemini-3.8-flash",
+    "char_count": 360,
+    "period_count": 54,
+    "timestamp": "2026-11-23 19:29:05"
+  },
+  "11": {
+    "page": 11,
+    "model": "gemini-3.8-flash",
+    "char_count": 399,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:29:35"
+  },
+  "12": {
+    "page": 12,
+    "model": "gemini-3.8-flash",
+    "char_count": 417,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:29:35"
+  },
+  "13": {
+    "page": 13,
+    "model": "gemini-3.8-flash",
+    "char_count": 384,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:29:35"
+  },
+  "14": {
+    "page": 14,
+    "model": "gemini-3.8-flash",
+    "char_count": 422,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:30:06"
+  },
   "15": {
     "page": 15,
     "model": "gemini-3.8-flash",
-    "char_count": 384,
-    "period_count": 63,
-    "timestamp": "2026-11-08 20:44:13"
+    "char_count": 456,
+    "period_count": 74,
+    "timestamp": "2026-11-23 19:30:06"
   },
   "16": {
     "page": 16,
     "model": "gemini-3.8-flash",
-    "char_count": 457,
-    "period_count": 77,
-    "timestamp": "2026-11-08 20:44:13"
+    "char_count": 422,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:30:06"
   },
   "17": {
     "page": 17,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 84,
-    "timestamp": "2026-11-08 20:44:13"
+    "char_count": 401,
+    "period_count": 66,
+    "timestamp": "2026-11-23 19:30:34"
   },
   "18": {
     "page": 18,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 76,
-    "timestamp": "2026-11-08 20:44:13"
+    "char_count": 409,
+    "period_count": 60,
+    "timestamp": "2026-11-23 19:30:34"
   },
   "19": {
     "page": 19,
     "model": "gemini-3.8-flash",
-    "char_count": 416,
-    "period_count": 78,
-    "timestamp": "2026-11-08 20:44:13"
+    "char_count": 417,
+    "period_count": 70,
+    "timestamp": "2026-11-23 19:30:34"
   },
   "20": {
     "page": 20,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 80,
-    "timestamp": "2026-11-08 20:46:17"
+    "char_count": 454,
+    "period_count": 63,
+    "timestamp": "2026-11-23 19:31:04"
   },
   "21": {
     "page": 21,
     "model": "gemini-3.8-flash",
-    "char_count": 405,
-    "period_count": 73,
-    "timestamp": "2026-11-08 20:46:17"
+    "char_count": 396,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:31:04"
   },
   "22": {
     "page": 22,
     "model": "gemini-3.8-flash",
-    "char_count": 448,
-    "period_count": 82,
-    "timestamp": "2026-11-08 20:46:17"
+    "char_count": 412,
+    "period_count": 59,
+    "timestamp": "2026-11-23 19:31:04"
   },
   "23": {
     "page": 23,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 85,
-    "timestamp": "2026-11-08 20:46:17"
+    "char_count": 407,
+    "period_count": 62,
+    "timestamp": "2026-11-23 19:31:32"
   },
   "24": {
     "page": 24,
     "model": "gemini-3.8-flash",
-    "char_count": 456,
-    "period_count": 78,
-    "timestamp": "2026-11-08 20:46:17"
+    "char_count": 407,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:31:32"
   },
   "25": {
     "page": 25,
     "model": "gemini-3.8-flash",
-    "char_count": 427,
-    "period_count": 71,
-    "timestamp": "2026-11-08 20:54:25"
+    "char_count": 383,
+    "period_count": 62,
+    "timestamp": "2026-11-23 19:31:32"
   },
   "26": {
     "page": 26,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 85,
-    "timestamp": "2026-11-08 20:54:25"
+    "char_count": 397,
+    "period_count": 65,
+    "timestamp": "2026-11-23 19:32:02"
   },
   "27": {
     "page": 27,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 84,
-    "timestamp": "2026-11-08 20:54:25"
+    "char_count": 403,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:32:02"
   },
   "28": {
     "page": 28,
     "model": "gemini-3.8-flash",
-    "char_count": 425,
-    "period_count": 77,
-    "timestamp": "2026-11-08 20:54:25"
+    "char_count": 455,
+    "period_count": 76,
+    "timestamp": "2026-11-23 19:32:02"
   },
   "29": {
     "page": 29,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 79,
-    "timestamp": "2026-11-08 20:54:25"
+    "char_count": 414,
+    "period_count": 65,
+    "timestamp": "2026-11-23 19:32:31"
   },
   "30": {
     "page": 30,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 45,
-    "timestamp": "2026-11-08 21:02:20"
+    "char_count": 454,
+    "period_count": 75,
+    "timestamp": "2026-11-23 19:32:31"
   },
   "31": {
     "page": 31,
     "model": "gemini-3.8-flash",
-    "char_count": 412,
-    "period_count": 49,
-    "timestamp": "2026-11-08 21:02:20"
+    "char_count": 397,
+    "period_count": 65,
+    "timestamp": "2026-11-23 19:32:31"
   },
   "32": {
     "page": 32,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 45,
-    "timestamp": "2026-11-08 21:02:20"
+    "char_count": 414,
+    "period_count": 66,
+    "timestamp": "2026-11-23 19:32:59"
   },
   "33": {
     "page": 33,
     "model": "gemini-3.8-flash",
-    "char_count": 461,
-    "period_count": 44,
-    "timestamp": "2026-11-08 21:02:20"
+    "char_count": 379,
+    "period_count": 54,
+    "timestamp": "2026-11-23 19:32:59"
   },
   "34": {
     "page": 34,
     "model": "gemini-3.8-flash",
-    "char_count": 406,
-    "period_count": 37,
-    "timestamp": "2026-11-08 21:02:20"
+    "char_count": 417,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:32:59"
   },
   "35": {
     "page": 35,
     "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 76,
-    "timestamp": "2026-11-08 21:06:47"
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:33:29"
   },
   "36": {
     "page": 36,
     "model": "gemini-3.8-flash",
-    "char_count": 456,
-    "period_count": 83,
-    "timestamp": "2026-11-08 21:06:47"
+    "char_count": 394,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:33:29"
   },
   "37": {
     "page": 37,
     "model": "gemini-3.8-flash",
-    "char_count": 406,
-    "period_count": 83,
-    "timestamp": "2026-11-08 21:06:47"
+    "char_count": 383,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:33:29"
   },
   "38": {
     "page": 38,
     "model": "gemini-3.8-flash",
-    "char_count": 435,
-    "period_count": 80,
-    "timestamp": "2026-11-08 21:06:47"
+    "char_count": 457,
+    "period_count": 73,
+    "timestamp": "2026-11-23 19:34:00"
   },
   "39": {
     "page": 39,
     "model": "gemini-3.8-flash",
-    "char_count": 429,
-    "period_count": 80,
-    "timestamp": "2026-11-08 21:06:47"
+    "char_count": 419,
+    "period_count": 78,
+    "timestamp": "2026-11-23 19:34:00"
   },
   "40": {
     "page": 40,
     "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 45,
-    "timestamp": "2026-11-08 21:16:07"
+    "period_count": 84,
+    "timestamp": "2026-11-23 19:34:00"
   },
   "41": {
     "page": 41,
     "model": "gemini-3.8-flash",
-    "char_count": 407,
-    "period_count": 60,
-    "timestamp": "2026-11-08 21:16:07"
+    "char_count": 429,
+    "period_count": 76,
+    "timestamp": "2026-11-23 19:34:29"
   },
   "42": {
     "page": 42,
     "model": "gemini-3.8-flash",
-    "char_count": 454,
-    "period_count": 68,
-    "timestamp": "2026-11-08 21:16:07"
+    "char_count": 430,
+    "period_count": 80,
+    "timestamp": "2026-11-23 19:34:29"
   },
   "43": {
     "page": 43,
     "model": "gemini-3.8-flash",
-    "char_count": 418,
+    "char_count": 406,
     "period_count": 70,
-    "timestamp": "2026-11-08 21:16:07"
+    "timestamp": "2026-11-23 19:34:29"
   },
   "44": {
     "page": 44,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 77,
-    "timestamp": "2026-11-08 21:16:07"
+    "char_count": 406,
+    "period_count": 70,
+    "timestamp": "2026-11-23 19:34:58"
   },
   "45": {
     "page": 45,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 77,
-    "timestamp": "2026-11-08 21:20:49"
+    "char_count": 407,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:34:58"
   },
   "46": {
     "page": 46,
     "model": "gemini-3.8-flash",
-    "char_count": 417,
-    "period_count": 73,
-    "timestamp": "2026-11-08 21:20:49"
+    "char_count": 454,
+    "period_count": 76,
+    "timestamp": "2026-11-23 19:34:58"
   },
   "47": {
     "page": 47,
     "model": "gemini-3.8-flash",
-    "char_count": 411,
-    "period_count": 74,
-    "timestamp": "2026-11-08 21:20:49"
+    "char_count": 455,
+    "period_count": 81,
+    "timestamp": "2026-11-23 19:35:28"
   },
   "48": {
     "page": 48,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 88,
-    "timestamp": "2026-11-08 21:20:49"
+    "char_count": 402,
+    "period_count": 73,
+    "timestamp": "2026-11-23 19:35:28"
   },
   "49": {
     "page": 49,
     "model": "gemini-3.8-flash",
-    "char_count": 408,
-    "period_count": 71,
-    "timestamp": "2026-11-08 21:20:49"
+    "char_count": 454,
+    "period_count": 89,
+    "timestamp": "2026-11-23 19:35:28"
   },
   "50": {
     "page": 50,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
+    "model": "gemini-3.8-flash",
+    "char_count": 481,
     "period_count": 76,
-    "timestamp": "2026-11-08 21:34:41"
+    "timestamp": "2026-11-23 19:35:59"
   },
   "51": {
     "page": 51,
-    "model": "gemini-3.6-flash",
-    "char_count": 398,
-    "period_count": 58,
-    "timestamp": "2026-11-08 21:34:41"
+    "model": "gemini-3.8-flash",
+    "char_count": 397,
+    "period_count": 69,
+    "timestamp": "2026-11-23 19:35:59"
   },
   "52": {
     "page": 52,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 87,
-    "timestamp": "2026-11-08 21:34:41"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 82,
+    "timestamp": "2026-11-23 19:35:59"
   },
   "53": {
     "page": 53,
-    "model": "gemini-3.6-flash",
-    "char_count": 369,
-    "period_count": 65,
-    "timestamp": "2026-11-08 21:34:41"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 79,
+    "timestamp": "2026-11-23 19:36:28"
   },
   "54": {
     "page": 54,
-    "model": "gemini-3.6-flash",
-    "char_count": 411,
-    "period_count": 71,
-    "timestamp": "2026-11-08 21:34:41"
+    "model": "gemini-3.8-flash",
+    "char_count": 454,
+    "period_count": 65,
+    "timestamp": "2026-11-23 19:36:28"
   },
   "55": {
     "page": 55,
-    "model": "gemini-3.6-flash",
-    "char_count": 421,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
     "period_count": 72,
-    "timestamp": "2026-11-08 21:35:33"
+    "timestamp": "2026-11-23 19:36:28"
   },
   "56": {
     "page": 56,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 456,
-    "period_count": 81,
-    "timestamp": "2026-11-08 21:35:33"
+    "period_count": 80,
+    "timestamp": "2026-11-23 19:36:58"
   },
   "57": {
     "page": 57,
-    "model": "gemini-3.6-flash",
-    "char_count": 395,
-    "period_count": 63,
-    "timestamp": "2026-11-08 21:35:33"
+    "model": "gemini-3.8-flash",
+    "char_count": 427,
+    "period_count": 70,
+    "timestamp": "2026-11-23 19:36:58"
   },
   "58": {
     "page": 58,
-    "model": "gemini-3.6-flash",
-    "char_count": 406,
-    "period_count": 62,
-    "timestamp": "2026-11-08 21:35:33"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 76,
+    "timestamp": "2026-11-23 19:36:58"
   },
   "59": {
     "page": 59,
-    "model": "gemini-3.6-flash",
-    "char_count": 405,
-    "period_count": 61,
-    "timestamp": "2026-11-08 21:35:33"
+    "model": "gemini-3.8-flash",
+    "char_count": 469,
+    "period_count": 70,
+    "timestamp": "2026-11-23 19:37:27"
   },
   "60": {
     "page": 60,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
+    "model": "gemini-3.8-flash",
+    "char_count": 364,
     "period_count": 74,
-    "timestamp": "2026-11-08 21:36:18"
+    "timestamp": "2026-11-23 19:37:27"
   },
   "61": {
     "page": 61,
-    "model": "gemini-3.6-flash",
-    "char_count": 400,
-    "period_count": 65,
-    "timestamp": "2026-11-08 21:36:18"
+    "model": "gemini-3.8-flash",
+    "char_count": 412,
+    "period_count": 69,
+    "timestamp": "2026-11-23 19:37:27"
   },
   "62": {
     "page": 62,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
-    "period_count": 82,
-    "timestamp": "2026-11-08 21:36:18"
+    "model": "gemini-3.8-flash",
+    "char_count": 459,
+    "period_count": 89,
+    "timestamp": "2026-11-23 19:37:56"
   },
   "63": {
     "page": 63,
-    "model": "gemini-3.6-flash",
-    "char_count": 433,
-    "period_count": 76,
-    "timestamp": "2026-11-08 21:36:18"
+    "model": "gemini-3.8-flash",
+    "char_count": 428,
+    "period_count": 75,
+    "timestamp": "2026-11-23 19:37:56"
   },
   "64": {
     "page": 64,
-    "model": "gemini-3.6-flash",
-    "char_count": 453,
-    "period_count": 75,
-    "timestamp": "2026-11-08 21:36:18"
+    "model": "gemini-3.8-flash",
+    "char_count": 400,
+    "period_count": 69,
+    "timestamp": "2026-11-23 19:37:56"
   },
   "65": {
     "page": 65,
-    "model": "gemini-3.6-flash",
-    "char_count": 419,
-    "period_count": 64,
-    "timestamp": "2026-11-08 21:36:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 418,
+    "period_count": 71,
+    "timestamp": "2026-11-23 19:38:25"
   },
   "66": {
     "page": 66,
-    "model": "gemini-3.6-flash",
-    "char_count": 415,
-    "period_count": 75,
-    "timestamp": "2026-11-08 21:36:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 462,
+    "period_count": 94,
+    "timestamp": "2026-11-23 19:38:25"
   },
   "67": {
     "page": 67,
-    "model": "gemini-3.6-flash",
-    "char_count": 404,
-    "period_count": 78,
-    "timestamp": "2026-11-08 21:36:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 357,
+    "period_count": 66,
+    "timestamp": "2026-11-23 19:38:25"
   },
   "68": {
     "page": 68,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 75,
-    "timestamp": "2026-11-08 21:36:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 357,
+    "period_count": 58,
+    "timestamp": "2026-11-23 19:38:56"
   },
   "69": {
     "page": 69,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
     "period_count": 78,
-    "timestamp": "2026-11-08 21:36:50"
+    "timestamp": "2026-11-23 19:38:56"
+  },
+  "70": {
+    "page": 70,
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 81,
+    "timestamp": "2026-11-23 19:38:56"
   },
   "71": {
     "page": 71,
-    "model": "gemini-3.6-flash",
-    "char_count": 436,
-    "period_count": 80,
-    "timestamp": "2026-11-08 22:29:38"
+    "model": "gemini-3.8-flash",
+    "char_count": 403,
+    "period_count": 73,
+    "timestamp": "2026-11-23 19:39:26"
   },
   "72": {
     "page": 72,
-    "model": "gemini-3.6-flash",
-    "char_count": 418,
-    "period_count": 64,
-    "timestamp": "2026-11-08 21:38:12"
+    "model": "gemini-3.8-flash",
+    "char_count": 422,
+    "period_count": 72,
+    "timestamp": "2026-11-23 19:39:26"
   },
   "73": {
     "page": 73,
-    "model": "gemini-3.6-flash",
-    "char_count": 399,
-    "period_count": 69,
-    "timestamp": "2026-11-08 21:38:30"
+    "model": "gemini-3.8-flash",
+    "char_count": 422,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:39:26"
   },
   "74": {
     "page": 74,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 80,
-    "timestamp": "2026-11-08 21:39:23"
+    "model": "gemini-3.8-flash",
+    "char_count": 429,
+    "period_count": 78,
+    "timestamp": "2026-11-23 19:39:56"
   },
   "75": {
     "page": 75,
-    "model": "gemini-3.6-flash",
-    "char_count": 383,
-    "period_count": 61,
-    "timestamp": "2026-11-08 21:43:56"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 85,
+    "timestamp": "2026-11-23 19:39:56"
   },
   "76": {
     "page": 76,
-    "model": "gemini-3.6-flash",
-    "char_count": 404,
-    "period_count": 71,
-    "timestamp": "2026-11-08 21:43:56"
+    "model": "gemini-3.8-flash",
+    "char_count": 454,
+    "period_count": 77,
+    "timestamp": "2026-11-23 19:39:56"
   },
   "77": {
     "page": 77,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
-    "period_count": 82,
-    "timestamp": "2026-11-08 21:43:56"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 75,
+    "timestamp": "2026-11-23 19:40:26"
   },
   "78": {
     "page": 78,
-    "model": "gemini-3.6-flash",
-    "char_count": 407,
-    "period_count": 69,
-    "timestamp": "2026-11-08 21:43:56"
+    "model": "gemini-3.8-flash",
+    "char_count": 405,
+    "period_count": 67,
+    "timestamp": "2026-11-23 19:40:26"
   },
   "79": {
     "page": 79,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 84,
-    "timestamp": "2026-11-08 21:43:56"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 86,
+    "timestamp": "2026-11-23 19:40:26"
   },
   "80": {
     "page": 80,
-    "model": "gemini-3.6-flash",
-    "char_count": 426,
-    "period_count": 74,
-    "timestamp": "2026-11-08 21:46:04"
+    "model": "gemini-3.8-flash",
+    "char_count": 411,
+    "period_count": 66,
+    "timestamp": "2026-11-23 19:40:55"
   },
   "81": {
     "page": 81,
-    "model": "gemini-3.6-flash",
-    "char_count": 414,
-    "period_count": 68,
-    "timestamp": "2026-11-08 21:46:04"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 71,
+    "timestamp": "2026-11-23 19:40:55"
   },
   "82": {
     "page": 82,
-    "model": "gemini-3.6-flash",
-    "char_count": 453,
-    "period_count": 83,
-    "timestamp": "2026-11-08 21:46:04"
+    "model": "gemini-3.8-flash",
+    "char_count": 419,
+    "period_count": 75,
+    "timestamp": "2026-11-23 19:40:55"
   },
   "83": {
     "page": 83,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 79,
-    "timestamp": "2026-11-08 21:46:04"
+    "model": "gemini-3.8-flash",
+    "char_count": 351,
+    "period_count": 59,
+    "timestamp": "2026-11-23 19:41:23"
   },
   "84": {
     "page": 84,
-    "model": "gemini-3.6-flash",
-    "char_count": 427,
-    "period_count": 63,
-    "timestamp": "2026-11-08 21:46:04"
-  },
-  "87": {
-    "page": 87,
-    "model": "gemini-3.5-flash",
-    "char_count": 452,
-    "period_count": 70,
-    "timestamp": "2026-11-08 21:48:50"
-  },
-  "88": {
-    "page": 88,
-    "model": "gemini-3.5-flash",
-    "char_count": 410,
-    "period_count": 57,
-    "timestamp": "2026-11-08 21:49:08"
+    "model": "gemini-3.8-flash",
+    "char_count": 395,
+    "period_count": 73,
+    "timestamp": "2026-11-23 19:41:23"
   },
   "85": {
     "page": 85,
-    "model": "gemini-3.6-flash",
-    "char_count": 407,
-    "period_count": 68,
-    "timestamp": "2026-11-08 22:29:38"
+    "model": "gemini-3.8-flash",
+    "char_count": 433,
+    "period_count": 79,
+    "timestamp": "2026-11-23 19:41:23"
   },
   "86": {
     "page": 86,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
+    "model": "gemini-3.8-flash",
+    "char_count": 425,
     "period_count": 75,
-    "timestamp": "2026-11-08 22:29:38"
+    "timestamp": "2026-11-23 19:41:56"
+  },
+  "87": {
+    "page": 87,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 72,
+    "timestamp": "2026-11-23 19:41:56"
+  },
+  "88": {
+    "page": 88,
+    "model": "gemini-3.8-flash",
+    "char_count": 420,
+    "period_count": 65,
+    "timestamp": "2026-11-23 19:41:56"
   },
   "89": {
     "page": 89,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 84,
-    "timestamp": "2026-11-08 22:29:38"
+    "period_count": 79,
+    "timestamp": "2026-11-23 19:42:26"
   },
   "90": {
     "page": 90,
-    "model": "gemini-3.6-flash",
-    "char_count": 451,
-    "period_count": 80,
-    "timestamp": "2026-11-08 22:29:38"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 76,
+    "timestamp": "2026-11-23 19:42:26"
   },
   "91": {
     "page": 91,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 72,
-    "timestamp": "2026-11-08 22:30:11"
+    "period_count": 81,
+    "timestamp": "2026-11-23 19:42:26"
   },
   "92": {
     "page": 92,
-    "model": "gemini-3.6-flash",
-    "char_count": 417,
-    "period_count": 76,
-    "timestamp": "2026-11-08 22:30:11"
+    "model": "gemini-3.8-flash",
+    "char_count": 421,
+    "period_count": 63,
+    "timestamp": "2026-11-23 19:42:56"
   },
   "93": {
     "page": 93,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 79,
-    "timestamp": "2026-11-08 22:30:11"
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:42:56"
   },
   "94": {
     "page": 94,
-    "model": "gemini-3.6-flash",
-    "char_count": 410,
-    "period_count": 76,
-    "timestamp": "2026-11-08 22:30:11"
+    "model": "gemini-3.8-flash",
+    "char_count": 409,
+    "period_count": 70,
+    "timestamp": "2026-11-23 19:42:56"
   },
   "95": {
     "page": 95,
-    "model": "gemini-3.6-flash",
-    "char_count": 416,
-    "period_count": 79,
-    "timestamp": "2026-11-08 22:30:11"
+    "model": "gemini-3.8-flash",
+    "char_count": 440,
+    "period_count": 66,
+    "timestamp": "2026-11-23 19:43:26"
   },
   "96": {
     "page": 96,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 84,
-    "timestamp": "2026-11-08 22:36:17"
+    "model": "gemini-3.8-flash",
+    "char_count": 428,
+    "period_count": 68,
+    "timestamp": "2026-11-23 19:43:26"
   },
   "97": {
     "page": 97,
-    "model": "gemini-3.6-flash",
-    "char_count": 401,
-    "period_count": 63,
-    "timestamp": "2026-11-08 22:36:17"
+    "model": "gemini-3.8-flash",
+    "char_count": 403,
+    "period_count": 62,
+    "timestamp": "2026-11-23 19:43:26"
   },
   "98": {
     "page": 98,
-    "model": "gemini-3.6-flash",
-    "char_count": 410,
-    "period_count": 69,
-    "timestamp": "2026-11-08 22:36:17"
+    "model": "gemini-3.8-flash",
+    "char_count": 402,
+    "period_count": 70,
+    "timestamp": "2026-11-23 19:43:55"
   },
   "99": {
     "page": 99,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 85,
-    "timestamp": "2026-11-08 22:36:17"
+    "model": "gemini-3.8-flash",
+    "char_count": 420,
+    "period_count": 69,
+    "timestamp": "2026-11-23 19:43:55"
   },
   "100": {
     "page": 100,
-    "model": "gemini-3.6-flash",
-    "char_count": 388,
-    "period_count": 71,
-    "timestamp": "2026-11-08 22:36:17"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 78,
+    "timestamp": "2026-11-23 19:43:55"
   },
   "101": {
     "page": 101,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
-    "period_count": 84,
-    "timestamp": "2026-11-08 22:36:47"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 78,
+    "timestamp": "2026-11-23 19:44:26"
   },
   "102": {
     "page": 102,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 88,
-    "timestamp": "2026-11-08 22:36:47"
+    "model": "gemini-3.8-flash",
+    "char_count": 427,
+    "period_count": 80,
+    "timestamp": "2026-11-23 19:44:26"
   },
   "103": {
     "page": 103,
-    "model": "gemini-3.6-flash",
-    "char_count": 450,
-    "period_count": 76,
-    "timestamp": "2026-11-08 22:36:47"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 79,
+    "timestamp": "2026-11-23 19:44:26"
   },
   "104": {
     "page": 104,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 434,
-    "period_count": 70,
-    "timestamp": "2026-11-08 22:36:47"
+    "period_count": 66,
+    "timestamp": "2026-11-23 14:44:15"
   },
   "105": {
     "page": 105,
-    "model": "gemini-3.6-flash",
-    "char_count": 428,
-    "period_count": 73,
-    "timestamp": "2026-11-08 22:36:47"
+    "model": "gemini-3.8-flash",
+    "char_count": 429,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:44:15"
   },
   "106": {
     "page": 106,
-    "model": "gemini-3.6-flash",
-    "char_count": 405,
-    "period_count": 52,
-    "timestamp": "2026-11-08 22:37:18"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 73,
+    "timestamp": "2026-11-23 14:44:15"
   },
   "107": {
     "page": 107,
     "model": "gemini-3.6-flash",
-    "char_count": 453,
-    "period_count": 56,
-    "timestamp": "2026-11-08 22:37:18"
+    "char_count": 407,
+    "period_count": 64,
+    "timestamp": "2026-11-23 14:45:06"
   },
   "108": {
     "page": 108,
     "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 69,
-    "timestamp": "2026-11-08 22:37:18"
+    "char_count": 427,
+    "period_count": 65,
+    "timestamp": "2026-11-23 14:45:06"
   },
   "109": {
     "page": 109,
     "model": "gemini-3.6-flash",
-    "char_count": 405,
-    "period_count": 57,
-    "timestamp": "2026-11-08 22:37:18"
+    "char_count": 397,
+    "period_count": 63,
+    "timestamp": "2026-11-23 14:45:06"
   },
   "110": {
     "page": 110,
     "model": "gemini-3.6-flash",
-    "char_count": 400,
-    "period_count": 64,
-    "timestamp": "2026-11-08 22:37:18"
+    "char_count": 413,
+    "period_count": 63,
+    "timestamp": "2026-11-23 14:45:06"
   },
   "111": {
     "page": 111,
     "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 19,
-    "timestamp": "2026-11-08 22:37:52"
+    "char_count": 430,
+    "period_count": 80,
+    "timestamp": "2026-11-23 14:45:06"
   },
   "112": {
     "page": 112,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 23,
-    "timestamp": "2026-11-08 22:37:52"
+    "period_count": 73,
+    "timestamp": "2026-11-23 14:45:47"
   },
   "113": {
     "page": 113,
-    "model": "gemini-3.6-flash",
-    "char_count": 428,
-    "period_count": 19,
-    "timestamp": "2026-11-08 22:37:52"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 78,
+    "timestamp": "2026-11-23 14:45:47"
   },
   "114": {
     "page": 114,
-    "model": "gemini-3.6-flash",
-    "char_count": 409,
-    "period_count": 25,
-    "timestamp": "2026-11-08 22:37:52"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 85,
+    "timestamp": "2026-11-23 14:45:47"
   },
   "115": {
     "page": 115,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 23,
-    "timestamp": "2026-11-08 22:37:52"
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:45:47"
   },
   "116": {
     "page": 116,
-    "model": "gemini-3.6-flash",
-    "char_count": 413,
-    "period_count": 57,
-    "timestamp": "2026-11-08 22:38:22"
+    "model": "gemini-3.8-flash",
+    "char_count": 460,
+    "period_count": 85,
+    "timestamp": "2026-11-23 14:45:47"
   },
   "117": {
     "page": 117,
-    "model": "gemini-3.6-flash",
-    "char_count": 421,
-    "period_count": 69,
-    "timestamp": "2026-11-08 22:38:22"
+    "model": "gemini-3.8-flash",
+    "char_count": 417,
+    "period_count": 77,
+    "timestamp": "2026-11-23 14:46:25"
   },
   "118": {
     "page": 118,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 79,
-    "timestamp": "2026-11-08 22:38:22"
+    "model": "gemini-3.8-flash",
+    "char_count": 424,
+    "period_count": 67,
+    "timestamp": "2026-11-23 14:46:25"
   },
   "119": {
     "page": 119,
-    "model": "gemini-3.6-flash",
-    "char_count": 413,
-    "period_count": 68,
-    "timestamp": "2026-11-08 22:38:22"
+    "model": "gemini-3.8-flash",
+    "char_count": 422,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:46:25"
   },
   "120": {
     "page": 120,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 74,
-    "timestamp": "2026-11-08 22:38:22"
+    "model": "gemini-3.8-flash",
+    "char_count": 407,
+    "period_count": 70,
+    "timestamp": "2026-11-23 14:46:25"
   },
   "121": {
     "page": 121,
-    "model": "gemini-3.6-flash",
-    "char_count": 408,
-    "period_count": 67,
-    "timestamp": "2026-11-08 22:39:03"
+    "model": "gemini-3.8-flash",
+    "char_count": 418,
+    "period_count": 69,
+    "timestamp": "2026-11-23 14:46:25"
   },
   "122": {
     "page": 122,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
-    "period_count": 67,
-    "timestamp": "2026-11-08 22:39:03"
+    "model": "gemini-3.8-flash",
+    "char_count": 427,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:47:07"
   },
   "123": {
     "page": 123,
-    "model": "gemini-3.6-flash",
-    "char_count": 394,
-    "period_count": 79,
-    "timestamp": "2026-11-08 22:39:03"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 71,
+    "timestamp": "2026-11-23 14:47:07"
   },
   "124": {
     "page": 124,
-    "model": "gemini-3.6-flash",
-    "char_count": 415,
-    "period_count": 68,
-    "timestamp": "2026-11-08 22:39:03"
+    "model": "gemini-3.8-flash",
+    "char_count": 452,
+    "period_count": 76,
+    "timestamp": "2026-11-23 14:47:07"
   },
   "125": {
     "page": 125,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 78,
-    "timestamp": "2026-11-08 22:39:03"
-  },
-  "127": {
-    "page": 127,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 72,
-    "timestamp": "2026-11-08 22:40:05"
-  },
-  "128": {
-    "page": 128,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 76,
-    "timestamp": "2026-11-08 22:40:23"
-  },
-  "129": {
-    "page": 129,
-    "model": "gemini-3.6-flash",
-    "char_count": 391,
-    "period_count": 53,
-    "timestamp": "2026-11-08 22:40:42"
-  },
-  "130": {
-    "page": 130,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 86,
-    "timestamp": "2026-11-08 22:41:00"
+    "model": "gemini-3.8-flash",
+    "char_count": 441,
+    "period_count": 70,
+    "timestamp": "2026-11-23 14:47:07"
   },
   "126": {
     "page": 126,
-    "model": "gemini-3.6-flash",
-    "char_count": 431,
-    "period_count": 50,
-    "timestamp": "2026-11-08 22:45:07"
+    "model": "gemini-3.8-flash",
+    "char_count": 446,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:47:07"
+  },
+  "127": {
+    "page": 127,
+    "model": "gemini-3.8-flash",
+    "char_count": 465,
+    "period_count": 64,
+    "timestamp": "2026-11-23 14:47:44"
+  },
+  "128": {
+    "page": 128,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 76,
+    "timestamp": "2026-11-23 14:47:45"
+  },
+  "129": {
+    "page": 129,
+    "model": "gemini-3.8-flash",
+    "char_count": 454,
+    "period_count": 79,
+    "timestamp": "2026-11-23 14:47:45"
+  },
+  "130": {
+    "page": 130,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:47:45"
   },
   "131": {
     "page": 131,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 73,
-    "timestamp": "2026-11-08 22:50:20"
+    "model": "gemini-3.8-flash",
+    "char_count": 418,
+    "period_count": 62,
+    "timestamp": "2026-11-23 14:47:45"
   },
   "132": {
     "page": 132,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 73,
-    "timestamp": "2026-11-08 22:50:20"
+    "model": "gemini-3.8-flash",
+    "char_count": 446,
+    "period_count": 67,
+    "timestamp": "2026-11-23 14:48:23"
   },
   "133": {
     "page": 133,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 65,
-    "timestamp": "2026-11-08 22:50:20"
+    "model": "gemini-3.8-flash",
+    "char_count": 432,
+    "period_count": 75,
+    "timestamp": "2026-11-23 14:48:23"
   },
   "134": {
     "page": 134,
-    "model": "gemini-3.6-flash",
-    "char_count": 391,
-    "period_count": 63,
-    "timestamp": "2026-11-08 22:50:20"
+    "model": "gemini-3.8-flash",
+    "char_count": 452,
+    "period_count": 74,
+    "timestamp": "2026-11-23 14:48:23"
   },
   "135": {
     "page": 135,
-    "model": "gemini-3.6-flash",
-    "char_count": 422,
-    "period_count": 68,
-    "timestamp": "2026-11-08 22:50:20"
+    "model": "gemini-3.8-flash",
+    "char_count": 424,
+    "period_count": 65,
+    "timestamp": "2026-11-23 14:48:23"
   },
   "136": {
     "page": 136,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
+    "char_count": 419,
     "period_count": 68,
-    "timestamp": "2026-11-08 22:57:38"
+    "timestamp": "2026-11-23 14:48:23"
   },
   "137": {
     "page": 137,
     "model": "gemini-3.8-flash",
-    "char_count": 398,
-    "period_count": 72,
-    "timestamp": "2026-11-08 22:57:38"
+    "char_count": 466,
+    "period_count": 81,
+    "timestamp": "2026-11-23 14:49:02"
   },
   "138": {
     "page": 138,
     "model": "gemini-3.8-flash",
-    "char_count": 403,
-    "period_count": 67,
-    "timestamp": "2026-11-08 22:57:38"
+    "char_count": 405,
+    "period_count": 68,
+    "timestamp": "2026-11-23 14:49:02"
   },
   "139": {
     "page": 139,
     "model": "gemini-3.8-flash",
-    "char_count": 455,
-    "period_count": 77,
-    "timestamp": "2026-11-08 22:57:38"
+    "char_count": 391,
+    "period_count": 65,
+    "timestamp": "2026-11-23 14:49:02"
   },
   "140": {
     "page": 140,
     "model": "gemini-3.8-flash",
-    "char_count": 396,
-    "period_count": 59,
-    "timestamp": "2026-11-08 22:57:38"
+    "char_count": 455,
+    "period_count": 88,
+    "timestamp": "2026-11-23 14:49:02"
   },
   "141": {
     "page": 141,
-    "model": "gemini-3.6-flash",
-    "char_count": 424,
-    "period_count": 76,
-    "timestamp": "2026-11-08 23:16:43"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:49:02"
   },
   "142": {
     "page": 142,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 78,
-    "timestamp": "2026-11-08 23:16:43"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 82,
+    "timestamp": "2026-11-23 14:49:43"
   },
   "143": {
     "page": 143,
-    "model": "gemini-3.6-flash",
-    "char_count": 457,
-    "period_count": 68,
-    "timestamp": "2026-11-08 23:16:43"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:49:43"
   },
   "144": {
     "page": 144,
-    "model": "gemini-3.6-flash",
-    "char_count": 425,
-    "period_count": 64,
-    "timestamp": "2026-11-08 23:16:43"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 81,
+    "timestamp": "2026-11-23 14:49:43"
   },
   "145": {
     "page": 145,
-    "model": "gemini-3.6-flash",
-    "char_count": 425,
-    "period_count": 73,
-    "timestamp": "2026-11-08 23:16:43"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 93,
+    "timestamp": "2026-11-23 14:49:43"
   },
   "146": {
     "page": 146,
-    "model": "gemini-3.6-flash",
-    "char_count": 423,
-    "period_count": 69,
-    "timestamp": "2026-11-08 23:17:12"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:49:43"
   },
   "147": {
     "page": 147,
-    "model": "gemini-3.6-flash",
-    "char_count": 457,
-    "period_count": 80,
-    "timestamp": "2026-11-08 23:17:12"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:50:24"
   },
   "148": {
     "page": 148,
-    "model": "gemini-3.6-flash",
-    "char_count": 392,
-    "period_count": 71,
-    "timestamp": "2026-11-08 23:17:12"
+    "model": "gemini-3.8-flash",
+    "char_count": 462,
+    "period_count": 92,
+    "timestamp": "2026-11-23 14:50:24"
   },
   "149": {
     "page": 149,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 76,
-    "timestamp": "2026-11-08 23:17:12"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 91,
+    "timestamp": "2026-11-23 14:50:24"
   },
   "150": {
     "page": 150,
-    "model": "gemini-3.6-flash",
-    "char_count": 402,
-    "period_count": 64,
-    "timestamp": "2026-11-08 23:17:12"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 85,
+    "timestamp": "2026-11-23 14:50:24"
   },
   "151": {
     "page": 151,
-    "model": "gemini-3.6-flash",
-    "char_count": 408,
-    "period_count": 62,
-    "timestamp": "2026-11-08 23:17:40"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 94,
+    "timestamp": "2026-11-23 14:50:24"
   },
   "152": {
     "page": 152,
-    "model": "gemini-3.6-flash",
-    "char_count": 425,
-    "period_count": 70,
-    "timestamp": "2026-11-08 23:17:40"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 100,
+    "timestamp": "2026-11-23 14:51:02"
   },
   "153": {
     "page": 153,
-    "model": "gemini-3.6-flash",
-    "char_count": 428,
-    "period_count": 67,
-    "timestamp": "2026-11-08 23:17:40"
+    "model": "gemini-3.8-flash",
+    "char_count": 398,
+    "period_count": 70,
+    "timestamp": "2026-11-23 14:51:02"
   },
   "154": {
     "page": 154,
-    "model": "gemini-3.6-flash",
-    "char_count": 419,
-    "period_count": 72,
-    "timestamp": "2026-11-08 23:17:40"
+    "model": "gemini-3.8-flash",
+    "char_count": 458,
+    "period_count": 91,
+    "timestamp": "2026-11-23 14:51:02"
   },
   "155": {
     "page": 155,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 77,
-    "timestamp": "2026-11-08 23:17:40"
+    "model": "gemini-3.8-flash",
+    "char_count": 429,
+    "period_count": 79,
+    "timestamp": "2026-11-23 14:51:02"
   },
-  "158": {
-    "page": 158,
-    "model": "gemini-3.6-flash",
-    "char_count": 432,
-    "period_count": 76,
-    "timestamp": "2026-11-08 23:18:59"
-  },
-  "159": {
-    "page": 159,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 74,
-    "timestamp": "2026-11-08 23:19:16"
-  },
-  "160": {
-    "page": 160,
-    "model": "gemini-3.6-flash",
-    "char_count": 446,
-    "period_count": 95,
-    "timestamp": "2026-11-08 23:19:35"
-  },
-  "162": {
-    "page": 162,
-    "model": "gemini-3.6-flash",
-    "char_count": 455,
-    "period_count": 67,
-    "timestamp": "2026-11-08 23:31:14"
-  },
-  "163": {
-    "page": 163,
-    "model": "gemini-3.6-flash",
-    "char_count": 417,
-    "period_count": 62,
-    "timestamp": "2026-11-08 23:31:54"
+  "156": {
+    "page": 156,
+    "model": "gemini-3.8-flash",
+    "char_count": 472,
+    "period_count": 93,
+    "timestamp": "2026-11-23 14:51:02"
   },
   "157": {
     "page": 157,
-    "model": "gemini-3.6-flash",
-    "char_count": 430,
-    "period_count": 71,
-    "timestamp": "2026-11-08 23:50:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 473,
+    "period_count": 93,
+    "timestamp": "2026-11-23 14:51:46"
+  },
+  "158": {
+    "page": 158,
+    "model": "gemini-3.8-flash",
+    "char_count": 510,
+    "period_count": 90,
+    "timestamp": "2026-11-23 14:51:46"
+  },
+  "159": {
+    "page": 159,
+    "model": "gemini-3.8-flash",
+    "char_count": 477,
+    "period_count": 89,
+    "timestamp": "2026-11-23 14:51:46"
+  },
+  "160": {
+    "page": 160,
+    "model": "gemini-3.8-flash",
+    "char_count": 459,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:51:46"
+  },
+  "161": {
+    "page": 161,
+    "model": "gemini-3.8-flash",
+    "char_count": 457,
+    "period_count": 85,
+    "timestamp": "2026-11-23 14:51:46"
+  },
+  "162": {
+    "page": 162,
+    "model": "gemini-3.8-flash",
+    "char_count": 419,
+    "period_count": 77,
+    "timestamp": "2026-11-23 14:52:23"
+  },
+  "163": {
+    "page": 163,
+    "model": "gemini-3.8-flash",
+    "char_count": 478,
+    "period_count": 89,
+    "timestamp": "2026-11-23 14:52:23"
   },
   "164": {
     "page": 164,
-    "model": "gemini-3.6-flash",
-    "char_count": 411,
-    "period_count": 73,
-    "timestamp": "2026-11-08 23:50:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 485,
+    "period_count": 87,
+    "timestamp": "2026-11-23 14:52:23"
   },
   "165": {
     "page": 165,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 74,
-    "timestamp": "2026-11-08 23:50:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 100,
+    "timestamp": "2026-11-23 14:52:23"
   },
   "166": {
     "page": 166,
-    "model": "gemini-3.6-flash",
-    "char_count": 418,
-    "period_count": 67,
-    "timestamp": "2026-11-08 23:50:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 404,
+    "period_count": 71,
+    "timestamp": "2026-11-23 14:52:23"
   },
   "167": {
     "page": 167,
-    "model": "gemini-3.6-flash",
-    "char_count": 424,
-    "period_count": 69,
-    "timestamp": "2026-11-08 23:50:50"
+    "model": "gemini-3.8-flash",
+    "char_count": 404,
+    "period_count": 79,
+    "timestamp": "2026-11-23 14:53:05"
   },
   "168": {
     "page": 168,
-    "model": "gemini-3.6-flash",
-    "char_count": 419,
-    "period_count": 60,
-    "timestamp": "2026-11-08 23:55:16"
+    "model": "gemini-3.8-flash",
+    "char_count": 457,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:53:05"
   },
   "169": {
     "page": 169,
-    "model": "gemini-3.6-flash",
-    "char_count": 407,
-    "period_count": 63,
-    "timestamp": "2026-11-08 23:55:16"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 85,
+    "timestamp": "2026-11-23 14:53:05"
   },
   "170": {
     "page": 170,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 75,
-    "timestamp": "2026-11-08 23:55:16"
+    "period_count": 84,
+    "timestamp": "2026-11-23 14:53:05"
   },
   "171": {
     "page": 171,
-    "model": "gemini-3.6-flash",
-    "char_count": 401,
-    "period_count": 69,
-    "timestamp": "2026-11-08 23:55:16"
+    "model": "gemini-3.8-flash",
+    "char_count": 448,
+    "period_count": 97,
+    "timestamp": "2026-11-23 14:53:05"
   },
   "172": {
     "page": 172,
-    "model": "gemini-3.6-flash",
-    "char_count": 424,
-    "period_count": 73,
-    "timestamp": "2026-11-08 23:55:16"
+    "model": "gemini-3.8-flash",
+    "char_count": 428,
+    "period_count": 81,
+    "timestamp": "2026-11-23 14:53:48"
   },
   "173": {
     "page": 173,
-    "model": "gemini-3.6-flash",
-    "char_count": 466,
-    "period_count": 74,
-    "timestamp": "2026-11-08 23:55:16"
+    "model": "gemini-3.8-flash",
+    "char_count": 439,
+    "period_count": 90,
+    "timestamp": "2026-11-23 14:53:48"
   },
   "174": {
     "page": 174,
-    "model": "gemini-3.6-flash",
-    "char_count": 421,
-    "period_count": 71,
-    "timestamp": "2026-11-08 23:55:49"
+    "model": "gemini-3.8-flash",
+    "char_count": 433,
+    "period_count": 99,
+    "timestamp": "2026-11-23 14:53:48"
   },
   "175": {
     "page": 175,
-    "model": "gemini-3.6-flash",
-    "char_count": 424,
-    "period_count": 73,
-    "timestamp": "2026-11-08 23:55:49"
+    "model": "gemini-3.8-flash",
+    "char_count": 435,
+    "period_count": 83,
+    "timestamp": "2026-11-23 14:53:48"
   },
   "176": {
     "page": 176,
-    "model": "gemini-3.6-flash",
-    "char_count": 439,
-    "period_count": 79,
-    "timestamp": "2026-11-08 23:55:49"
+    "model": "gemini-3.8-flash",
+    "char_count": 436,
+    "period_count": 78,
+    "timestamp": "2026-11-23 14:53:48"
   },
   "177": {
     "page": 177,
-    "model": "gemini-3.6-flash",
+    "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 72,
-    "timestamp": "2026-11-08 23:55:49"
+    "period_count": 84,
+    "timestamp": "2026-11-23 14:54:28"
   },
   "178": {
     "page": 178,
-    "model": "gemini-3.6-flash",
-    "char_count": 427,
-    "period_count": 76,
-    "timestamp": "2026-11-08 23:55:49"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 70,
+    "timestamp": "2026-11-23 14:54:28"
   },
   "179": {
     "page": 179,
-    "model": "gemini-3.6-flash",
-    "char_count": 456,
-    "period_count": 80,
-    "timestamp": "2026-11-08 23:55:49"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 82,
+    "timestamp": "2026-11-23 14:54:28"
   },
   "180": {
     "page": 180,
     "model": "gemini-3.8-flash",
-    "char_count": 456,
-    "period_count": 75,
-    "timestamp": "2026-11-09 00:09:20"
+    "char_count": 455,
+    "period_count": 67,
+    "timestamp": "2026-11-23 14:54:28"
   },
   "181": {
     "page": 181,
     "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 82,
-    "timestamp": "2026-11-09 00:09:20"
+    "period_count": 85,
+    "timestamp": "2026-11-23 14:54:28"
   },
   "182": {
     "page": 182,
     "model": "gemini-3.8-flash",
-    "char_count": 425,
-    "period_count": 61,
-    "timestamp": "2026-11-09 00:09:20"
+    "char_count": 399,
+    "period_count": 69,
+    "timestamp": "2026-11-23 14:55:08"
   },
   "183": {
     "page": 183,
     "model": "gemini-3.8-flash",
-    "char_count": 390,
-    "period_count": 73,
-    "timestamp": "2026-11-09 00:09:20"
+    "char_count": 397,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:55:08"
   },
   "184": {
     "page": 184,
     "model": "gemini-3.8-flash",
-    "char_count": 416,
+    "char_count": 454,
     "period_count": 76,
-    "timestamp": "2026-11-09 00:12:05"
+    "timestamp": "2026-11-23 14:55:08"
   },
   "185": {
     "page": 185,
     "model": "gemini-3.8-flash",
     "char_count": 455,
-    "period_count": 86,
-    "timestamp": "2026-11-09 00:12:05"
+    "period_count": 80,
+    "timestamp": "2026-11-23 14:55:08"
   },
   "186": {
     "page": 186,
     "model": "gemini-3.8-flash",
-    "char_count": 424,
-    "period_count": 78,
-    "timestamp": "2026-11-09 00:12:05"
+    "char_count": 448,
+    "period_count": 74,
+    "timestamp": "2026-11-23 14:55:08"
   },
   "187": {
     "page": 187,
     "model": "gemini-3.8-flash",
-    "char_count": 417,
-    "period_count": 70,
-    "timestamp": "2026-11-09 00:12:05"
+    "char_count": 432,
+    "period_count": 74,
+    "timestamp": "2026-11-23 14:55:48"
   },
   "188": {
     "page": 188,
-    "model": "gemini-3.6-flash",
-    "char_count": 366,
-    "period_count": 59,
-    "timestamp": "2026-11-09 00:16:54"
+    "model": "gemini-3.8-flash",
+    "char_count": 410,
+    "period_count": 63,
+    "timestamp": "2026-11-23 14:55:48"
   },
   "189": {
     "page": 189,
-    "model": "gemini-3.6-flash",
-    "char_count": 421,
-    "period_count": 70,
-    "timestamp": "2026-11-09 00:16:54"
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 82,
+    "timestamp": "2026-11-23 14:55:48"
   },
   "190": {
     "page": 190,
-    "model": "gemini-3.6-flash",
-    "char_count": 453,
-    "period_count": 69,
-    "timestamp": "2026-11-09 00:16:54"
+    "model": "gemini-3.8-flash",
+    "char_count": 406,
+    "period_count": 65,
+    "timestamp": "2026-11-23 14:55:48"
   },
   "191": {
     "page": 191,
-    "model": "gemini-3.6-flash",
-    "char_count": 401,
-    "period_count": 68,
-    "timestamp": "2026-11-09 00:16:54"
+    "model": "gemini-3.8-flash",
+    "char_count": 429,
+    "period_count": 81,
+    "timestamp": "2026-11-23 14:55:48"
   },
   "192": {
     "page": 192,
-    "model": "gemini-3.6-flash",
-    "char_count": 408,
-    "period_count": 75,
-    "timestamp": "2026-11-09 00:19:10"
+    "model": "gemini-3.8-flash",
+    "char_count": 432,
+    "period_count": 73,
+    "timestamp": "2026-11-23 14:56:28"
   },
   "193": {
     "page": 193,
-    "model": "gemini-3.6-flash",
-    "char_count": 454,
-    "period_count": 84,
-    "timestamp": "2026-11-09 00:17:52"
+    "model": "gemini-3.8-flash",
+    "char_count": 426,
+    "period_count": 75,
+    "timestamp": "2026-11-23 14:56:28"
   },
   "194": {
     "page": 194,
-    "model": "gemini-3.6-flash",
-    "char_count": 415,
-    "period_count": 66,
-    "timestamp": "2026-11-09 00:17:52"
+    "model": "gemini-3.8-flash",
+    "char_count": 458,
+    "period_count": 82,
+    "timestamp": "2026-11-23 14:56:28"
   },
   "195": {
     "page": 195,
-    "model": "gemini-3.6-flash",
-    "char_count": 436,
-    "period_count": 77,
-    "timestamp": "2026-11-09 00:17:52"
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 89,
+    "timestamp": "2026-11-23 14:56:28"
   },
   "196": {
     "page": 196,
-    "model": "gemini-3.6-flash",
-    "char_count": 378,
-    "period_count": 70,
-    "timestamp": "2026-11-09 00:18:16"
+    "model": "gemini-3.8-flash",
+    "char_count": 415,
+    "period_count": 72,
+    "timestamp": "2026-11-23 14:56:28"
   },
   "197": {
     "page": 197,
     "model": "gemini-3.6-flash",
-    "char_count": 402,
-    "period_count": 79,
-    "timestamp": "2026-11-09 00:18:16"
+    "char_count": 455,
+    "period_count": 82,
+    "timestamp": "2026-11-23 14:57:23"
   },
   "198": {
     "page": 198,
     "model": "gemini-3.6-flash",
-    "char_count": 237,
-    "period_count": 42,
-    "timestamp": "2026-11-09 00:18:16"
+    "char_count": 436,
+    "period_count": 75,
+    "timestamp": "2026-11-23 14:57:23"
+  },
+  "199": {
+    "page": 199,
+    "model": "gemini-3.6-flash",
+    "char_count": 425,
+    "period_count": 64,
+    "timestamp": "2026-11-23 14:57:23"
+  },
+  "200": {
+    "page": 200,
+    "model": "gemini-3.6-flash",
+    "char_count": 456,
+    "period_count": 74,
+    "timestamp": "2026-11-23 14:57:23"
+  },
+  "203": {
+    "page": 203,
+    "model": "gemini-3.8-flash",
+    "char_count": 401,
+    "period_count": 64,
+    "timestamp": "2026-11-23 14:58:03"
+  },
+  "201": {
+    "page": 201,
+    "model": "gemini-3.6-flash",
+    "char_count": 408,
+    "period_count": 63,
+    "timestamp": "2026-11-23 14:57:23"
+  },
+  "202": {
+    "page": 202,
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 77,
+    "timestamp": "2026-11-23 14:58:03"
+  },
+  "204": {
+    "page": 204,
+    "model": "gemini-3.8-flash",
+    "char_count": 425,
+    "period_count": 74,
+    "timestamp": "2026-11-23 14:58:03"
+  },
+  "205": {
+    "page": 205,
+    "model": "gemini-3.8-flash",
+    "char_count": 405,
+    "period_count": 77,
+    "timestamp": "2026-11-23 14:58:03"
+  },
+  "206": {
+    "page": 206,
+    "model": "gemini-3.8-flash",
+    "char_count": 418,
+    "period_count": 68,
+    "timestamp": "2026-11-23 14:58:03"
+  },
+  "207": {
+    "page": 207,
+    "model": "gemini-3.8-flash",
+    "char_count": 413,
+    "period_count": 65,
+    "timestamp": "2026-11-23 14:58:39"
+  },
+  "208": {
+    "page": 208,
+    "model": "gemini-3.8-flash",
+    "char_count": 444,
+    "period_count": 76,
+    "timestamp": "2026-11-23 14:58:39"
+  },
+  "209": {
+    "page": 209,
+    "model": "gemini-3.8-flash",
+    "char_count": 432,
+    "period_count": 69,
+    "timestamp": "2026-11-23 14:58:39"
+  },
+  "210": {
+    "page": 210,
+    "model": "gemini-3.8-flash",
+    "char_count": 456,
+    "period_count": 75,
+    "timestamp": "2026-11-23 14:58:39"
+  },
+  "211": {
+    "page": 211,
+    "model": "gemini-3.8-flash",
+    "char_count": 402,
+    "period_count": 74,
+    "timestamp": "2026-11-23 14:58:39"
+  },
+  "212": {
+    "page": 212,
+    "model": "gemini-3.8-flash",
+    "char_count": 405,
+    "period_count": 69,
+    "timestamp": "2026-11-23 14:59:17"
+  },
+  "213": {
+    "page": 213,
+    "model": "gemini-3.8-flash",
+    "char_count": 428,
+    "period_count": 77,
+    "timestamp": "2026-11-23 14:59:17"
+  },
+  "214": {
+    "page": 214,
+    "model": "gemini-3.8-flash",
+    "char_count": 455,
+    "period_count": 88,
+    "timestamp": "2026-11-23 14:59:17"
+  },
+  "215": {
+    "page": 215,
+    "model": "gemini-3.8-flash",
+    "char_count": 414,
+    "period_count": 77,
+    "timestamp": "2026-11-23 14:59:17"
+  },
+  "216": {
+    "page": 216,
+    "model": "gemini-3.8-flash",
+    "char_count": 413,
+    "period_count": 70,
+    "timestamp": "2026-11-23 14:59:17"
+  },
+  "217": {
+    "page": 217,
+    "model": "gemini-3.8-flash",
+    "char_count": 260,
+    "period_count": 60,
+    "timestamp": "2026-11-23 14:59:35"
   }
 }
