@@ -1,2 +1,0 @@
-Leftover test artifact (created while verifying filesystem write permissions).
-Safe to delete.
